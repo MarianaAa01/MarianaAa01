@@ -1,4 +1,4 @@
-Hello there, I'm Mariana!
+# Hello there, I'm Mariana!
 
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaAa01&theme=vue-dark)
 
