@@ -2,16 +2,13 @@
 
 
 <!--![Visitor Count](https://profile-counter.glitch.me/MarianaAa01/count.svg)-->
-<h2 align="center">Languages and Tools:</h2>  
+<h2 align="center">Languages and Tools:</h2>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mari-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Mari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
-  <img align="center" alt="Mari-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Mari-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp" />
+  </a>
+</p>
 
 <h2 align="center">Connect with me:</h2>
 <div align="center"> 
@@ -19,7 +16,9 @@
   <a href="https://www.linkedin.com/in/mariana-carvalho-841192297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Stats
-![Mariana's GitHub stats](https://github-readme-stats-pink-seven-93.vercel.app/api?username=MarianaAa01&theme=vue-dark)
-![Top Langs](https://github-readme-stats-pink-seven-93.vercel.app/api/top-langs/?username=MarianaAa01&layout=compact&theme=vue-dark&cache_seconds=7200)
+<h2 align="center">Stats</h2>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=MarianaAa01&theme=vue-dark)
 
+</div>
